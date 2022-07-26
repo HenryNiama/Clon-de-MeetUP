@@ -1,0 +1,15 @@
+{
+  "name": "4-meeti",
+  "version": "1.0.0",
+  "description": "Aplicando B5 y Sass",
+  "main": "index.js",
+  "scripts": {
+    "compilar:sass": "sass --watch src/scss:build/css"
+  },
+  "author": "Henry Niama",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^5.2.0",
+    "sass": "^1.54.0"
+  }
+}
